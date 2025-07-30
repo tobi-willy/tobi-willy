@@ -16,7 +16,7 @@ Provisioned a full 3-tier application architecture (VPC, ALB, EC2, RDS, NAT Gate
 [GitHub Repo](https://github.com/tobi-willy/aws-infra-with-terraform)
 
 ### 🧾 Serverless Todo API
-A backend-only AWS project using Lambda, API Gateway, and DynamoDB — provisioned via Terraform. Demonstrates serverless design, IaC, and CI/CD.
+A backend-only AWS project using Lambda, API Gateway, and DynamoDB provisioned via Terraform. Demonstrates serverless design, IaC, and CI/CD.
 [GitHub Repo](https://github.com/tobi-willy/Lambda_project)
 
 ### 🔄 GitOps CI/CD with Argo CD
