@@ -29,7 +29,7 @@ Compared Lift-and-Shift vs. Cloud-Native migrations using microservices on Googl
 
 ## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/danielwilliamstobi/)
+- LinkedIn: [linkedin.com/in](https://www.linkedin.com/in/danielwilliamstobi/)
 - Email: danieltobiloba01@gmail.com
 <!--
 **tobi-willy/tobi-willy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
